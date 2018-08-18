@@ -1,6 +1,5 @@
 
-# Bienvenue, Sur ma page de présentation 
-![Shambhalafm](http://shambhalafm.fr/tmp/images/default.png)
+# Bienvenue, sur ma page de présentation 
 
 ### Ce n'est pas parce que vous ne savez pas vous servire d'un marteau qu'il faut planter des clous au tournevis !!!
 
@@ -11,6 +10,7 @@
 						#       Verison : 0.1.0    #
 						############################
 
+![Shambhalafm](http://shambhalafm.fr/tmp/images/default.png)
 
 
 
