@@ -30,7 +30,7 @@ see [Mon Cv](https://vjulien.github.io)
 	 * le developpement _Backend_
 	 * l'administration réseau
 	 * l'administration system
-
+>
 ## J'utilise la methode agile  
 
 	  * le mode scrum
