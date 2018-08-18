@@ -10,7 +10,7 @@
 
 
 # Bienvenue, Sur ma page de présentation 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Shambhalafm](http://shambhalafm.fr/tmp/images/default.png)
 
 ----
 ## Mon Profil 
