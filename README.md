@@ -21,10 +21,10 @@ see [Mon Cv](https://vjulien.github.io)
   see [Shambhalafm](https://www.shambhalafm.fr/)
 
 1.Mes compétences 
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 >
 	**Je Pratique plusieurs discipline**
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 	 * Le developpement _(Backend)_
 	 * l'administration réseau
