@@ -10,6 +10,7 @@
 
 
 # Bienvenue, Sur ma page de présentation 
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 ----
 ## Mon Profil 
@@ -22,7 +23,6 @@ see [Mon Cv](https://vjulien.github.io)
 
 
 # 1.Mes compétences 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 >
 ## Je Pratique plusieurs discipline
