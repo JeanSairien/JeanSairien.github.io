@@ -21,7 +21,7 @@ see [Mon Cv](https://vjulien.github.io)
   see [Shambhalafm](https://www.shambhalafm.fr/)
 
 
-#1.Mes compétences 
+# 1.Mes compétences 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 >
@@ -38,7 +38,7 @@ see [Mon Cv](https://vjulien.github.io)
 	  * les sprints
 	  * le pomodoro
 
-#2.Mes Passions
+# 2.Mes Passions
 >
 	** dans la vie j'ai trois passion
 
@@ -47,7 +47,7 @@ see [Mon Cv](https://vjulien.github.io)
 	 * La musique electronique et la sono
 
 
-#3.Mes hobbies
+# 3.Mes hobbies
 
 >
 	**pour me detendre je fais souvent de la veille ou je joue au jeux video**
