@@ -23,7 +23,7 @@ see [Mon Cv](https://vjulien.github.io)
 1.Mes compétences 
 >
 	**Je Pratique plusieurs discipline**
-
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 	 * Le developpement _(Backend)_
 	 * l'administration réseau
 	 * l'administration system
