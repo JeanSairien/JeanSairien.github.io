@@ -41,7 +41,7 @@ see [Mon Cv](https://vjulien.github.io)
 	** dans la vie j'ai trois passion
 
 	 * Ma femme	 
-	 * L'informatique et la programtion
+	 * L'informatique et la programmation
 	 * La musique electronique et la sono
 
 
