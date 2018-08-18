@@ -32,7 +32,7 @@ see [Mon Cv](https://vjulien.github.io)
 	 * l'administration réseau
 	 * l'administration system
 
-## J'utilise la methode agile **	  
+## J'utilise la methode agile  
 
 	  * le mode scrum
 	  * les sprints
@@ -50,7 +50,7 @@ see [Mon Cv](https://vjulien.github.io)
 # 3.Mes hobbies
 
 >
-## Pour me detendre je fais souvent de la veille ou je joue au jeux video**
+## Pour me detendre je fais souvent de la veille ou je joue au jeux video
 
 	* feedly pour la veille
 	* pc , xbox360 et raspberrypi pour le gaming et le retrogaming
