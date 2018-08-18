@@ -27,7 +27,7 @@ see [Mon Cv](https://vjulien.github.io)
 >
 ## Je Pratique plusieurs discipline
 
-	 * le developpement _Backend_
+	 * le developpement *Backend*
 	 * l'administration réseau
 	 * l'administration system
 
