@@ -25,14 +25,14 @@ see [Mon Cv](https://vjulien.github.io)
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 >
-	**Je Pratique plusieurs discipline**
+## Je Pratique plusieurs discipline
 
 
-	 * Le developpement __(Backend)__
+	 * le developpement __(Backend)__
 	 * l'administration réseau
 	 * l'administration system
 
-	 ** j'utilise la methode agile **	  
+## J'utilise la methode agile **	  
 
 	  * le mode scrum
 	  * les sprints
@@ -40,7 +40,7 @@ see [Mon Cv](https://vjulien.github.io)
 
 # 2.Mes Passions
 >
-	** dans la vie j'ai trois passion
+## Dans la vie j'ai trois passion
 
 	 * Ma femme	 
 	 * L'informatique et la programmation
@@ -50,7 +50,7 @@ see [Mon Cv](https://vjulien.github.io)
 # 3.Mes hobbies
 
 >
-	**pour me detendre je fais souvent de la veille ou je joue au jeux video**
+## Pour me detendre je fais souvent de la veille ou je joue au jeux video**
 
 	* feedly pour la veille
 	* pc , xbox360 et raspberrypi pour le gaming et le retrogaming
