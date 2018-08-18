@@ -1,4 +1,8 @@
-# Dr.Redfish
+
+# Bienvenue, Sur ma page de présentation 
+![Shambhalafm](http://shambhalafm.fr/tmp/images/default.png)
+
+### Ce n'est pas parce que vous ne savez pas vous servire d'un marteau qu'il faut planter des clous au tournevis !!!
 
 						############################
 						#       Dr.redfish         #
@@ -9,8 +13,6 @@
 
 
 
-# Bienvenue, Sur ma page de présentation 
-![Shambhalafm](http://shambhalafm.fr/tmp/images/default.png)
 
 ----
 ## Mon Profil 
