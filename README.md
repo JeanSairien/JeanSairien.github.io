@@ -20,8 +20,10 @@ see [Mon Cv](https://vjulien.github.io)
 > Retrouvez le site de ma web radio **Shambhalafm.fr**
   see [Shambhalafm](https://www.shambhalafm.fr/)
 
+
 1.Mes compétences 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
 >
 	**Je Pratique plusieurs discipline**
 
