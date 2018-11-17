@@ -1,7 +1,7 @@
 
 # Bienvenue, sur ma page de présentation 
 
-### Ce n'est pas parce que vous ne savez pas vous servire d'un marteau qu'il faut planter des clous au tournevis !!!
+
 
 						############################
 						#       Dr.redfish         #
