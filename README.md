@@ -6,7 +6,7 @@
 						############################
 						#       Dr.redfish         #
 						#       Developper	   #
-						#       Certificare        #
+						#       Shambhalafm        #
 						#       Verison : 0.1.0    #
 						############################
 
@@ -27,7 +27,7 @@ see [Mon Cv](https://vjulien.github.io)
 # 1.Mes compétences 
 
 >
-## Je Pratique plusieurs discipline
+## Je Pratique plusieurs discipline depuis 3 ans 
 
 	 * le developpement backend
 	 * l'administration réseau
@@ -42,7 +42,7 @@ see [Mon Cv](https://vjulien.github.io)
 
 # 2.Mes Passions
 >
-## Dans la vie j'ai trois passion
+## Dans la vie j'ai trois passions
 
 	 * Ma femme	 
 	 * L'informatique et la programmation
