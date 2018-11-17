@@ -5,9 +5,9 @@
 
 						############################
 						#       Dr.redfish         #
-						#       Developper	   #
+						#    	----------	  #
 						#       Shambhalafm        #
-						#       Verison : 0.1.0    #
+						#       Version : 0.1.0    #
 						############################
 
 ![Shambhalafm](http://shambhalafm.fr/tmp/images/default.png)
